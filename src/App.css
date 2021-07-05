@@ -1,0 +1,36 @@
+.box {
+  width: 500px;
+ /* min-height: 500px;*/
+  border: 2px solid  rgb(5, 23, 187);
+  margin: 40px auto;
+  text-align: center;
+  padding: 20px;
+  font-size: 24px;
+}
+
+span{
+  font-size: 36px;
+  font-weight: bold;
+  color:  rgb(93, 139, 182);
+}
+thead{
+  color:   rgb(5, 23, 187);
+}
+tbody{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+tr{
+  margin-bottom: 30px;
+}
+
+button{
+  margin-left: 60px;
+  margin-right: 20px;
+  background-color:  rgb(233, 240, 247);
+  border-radius: 5px;
+  font-size: 14px;
+  color: white;
+}
+
